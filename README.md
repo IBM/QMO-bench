@@ -1,2 +1,2 @@
 # QMO-bench
-Empirical benchmark and Colab demo for Query-based Molecure Optimization
+Empirical benchmark and Colab demo for Query-based Molecule Optimization.
